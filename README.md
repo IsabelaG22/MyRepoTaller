@@ -30,3 +30,19 @@ deberá utilizar las imágenes de la carpeta
 
 agregar a la entrega el repositorio de GITHUB para verificar. Ademas las instrucciones en el archivo README.md.
 
+
+
+MODIFICACIONES REALIZADAS
+
+Desarrollador uno
+Creo un index.html 
+y dentro de este un nav donde muestra algunas opciones que brinda la página y se le creo un estilo sencillo con colores neutros
+creo una carpeta con imagenes referentes al concepto de la página que serían utilizadas luego por los otros desarrolladores
+
+Desarrollador dos
+creo una carpeta con un video y se utilizo en un secction con id videoPublicidad donde se promociona un producto especifico, debajo de este una tabla con las categorias de productos y su respectiva descripcion de material y precios a esta se le dio estilo con Bootstrap
+
+
+Desarrollador Tres
+Creo una nueva página referente al titulo catálogo del nav
+se le dio estilo con css y se utilizo una imagen de la carpeta imagenes para ver como se veria el catálogo 
